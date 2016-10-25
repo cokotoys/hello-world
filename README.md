@@ -1,2 +1,2 @@
 # hello-world
-Me figuring out github
+Me figuring out GitHub
